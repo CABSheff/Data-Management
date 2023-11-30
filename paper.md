@@ -10,8 +10,10 @@ John smith proved that this process was possible in his paper in 1985
 
 blah blah blah blah blah blah blah
 
-Background 
+The cat then sat on the mat
 
-Results 
+##Background 
 
-Discussion
+##Results 
+
+##Discussion
