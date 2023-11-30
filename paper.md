@@ -1,4 +1,4 @@
-# Copper - Conform Extrusion of Copper Alloys
+# Copper - Conform Extrusion of Copper Alloys in Conjunction with Wieland 
 
 Kate Bowers - Supervised by Matrin Jackson
 
